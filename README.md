@@ -1,27 +1,21 @@
-### Hi there 👋 
+# Hi there 👋 
 
 I'm cactobyte, an ammeteur developer currently trying out different things 😄.
 
 ### Programming Languages 🌐
 
 💬 I know  `Javascript` , `Python` and `C#` <br/>
-📚 I am learning `C++` 
+📚 I am learning `C++` <br/>
+⚡ Working on a Discord bot
 <br/><br/><br/>
 
+### ✨ 2020 Goals: 
+* Finish the Discord Bot
+* Work on different projects
+* Learn new Languages
 
-📫 **Contact Me on Discord:** `cm#7667`
-<!--
-**cactobyte/cactobyte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###### 📫 **Contact Me on Discord:** `cm#7667`
 
