@@ -2,7 +2,7 @@
 
 I'm cactobyte, an ammeteur developer currently trying out different things 😄.
 
-### Programming Languages 🌐
+### 🌐 Programming Languages 
 
 💬 I know  `Javascript` , `Python` and `C#` <br/>
 📚 I am learning `C++` <br/>
