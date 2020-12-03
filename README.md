@@ -14,6 +14,8 @@ I'm cactobyte, an ammeteur developer currently trying out different things 😄.
 * Work on different projects
 * Learn new Languages
 
+### 📰 Past Projects:
+* Private 24/7 Music Bot
 
 <br/>
 
