@@ -1,6 +1,6 @@
 # Hi there 👋 
 
-Currently working on: My ALevels
+Currently studying @ University of Exeter
 <br/>
 Abandonded Projects that I might work on: unnamed game 
 <br/>
