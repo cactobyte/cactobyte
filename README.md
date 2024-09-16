@@ -1,6 +1,6 @@
 # Hi there 👋 
 
-Currently studying @ University of Exeter
+Year 2 Computer Science Undergraduate @ University of Exeter
 <br/>
 
 
