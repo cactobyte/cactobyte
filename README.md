@@ -1,6 +1,6 @@
 # <img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"> Hi there 
 
-Year 3 Computer Science Undergraduate @ University of Exeter
+Year 3 Undergraduate Computer Science Student @ University of Exeter
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/boris-cheung-010291210/)
