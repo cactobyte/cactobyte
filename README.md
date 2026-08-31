@@ -1,6 +1,6 @@
 # <img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"> Hi there 
 
-Computer Science Graduate from University of Exeter, First Class Honours
+BSc Computer Science Graduate from University of Exeter with First Class Honours
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/boris-cheung-010291210/)
